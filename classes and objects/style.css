@@ -1,0 +1,24 @@
+.container {
+  width: 450px;
+  height: 200px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.btn {
+  width: 190px;
+  height: 40px;
+  background-color: green;
+  border-radius: 10px;
+  color: white;
+  position: relative;
+  top: 40px;
+  left: 130px;
+}
+
+.heading {
+  text-align: center;
+}

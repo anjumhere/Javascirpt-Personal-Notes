@@ -1,0 +1,16 @@
+.box {
+  height: 100px;
+  width: 100px;
+  border: 2px solid grey;
+  text-align: center;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.light {
+  background-color: lightblue;
+  color: grey;
+}
